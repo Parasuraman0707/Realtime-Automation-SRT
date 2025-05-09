@@ -1,0 +1,9 @@
+Listening...
+Friday: I'm listening, sir.
+You said: i am rajesh kumar
+Friday: Command not recognized.
+Listening...
+Friday: I'm listening, sir.
+Friday: Sorry, I didn't catch that.
+Listening...
+Friday: I'm listening, sir.
